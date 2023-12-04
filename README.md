@@ -4,11 +4,11 @@
 Hi there, I'm zander!
 ```
 
-- I'm currently hacking @ [green.ai](https://green.ai) in Copenhagen 🏙
+- I'm currently hacking @ [green.ai](https://green.ai) in Copenhagen 🌇
 
-- I do a bit of everything, but my interests mainly lie within Cloud Native, DevOps and Backend development 󰠳 
+- I do a bit of everything, but my interests mainly lie within Cloud Native, DevOps and Backend development 🚀
 
-- I'm a big fan of FOSS, Linux, tiling WMs and NeoVim ❤
+- I'm a big fan of FOSS, Linux, tiling WMs and NeoVim ❤️
 
 - I'm active in the meetup scene, so if you see me, please come and say hi! 👋
 
