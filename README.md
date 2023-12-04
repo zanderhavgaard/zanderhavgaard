@@ -4,13 +4,9 @@
 Hi there, I'm zander!
 ```
 
-- I'm a DevOps & Cloud Native consultant with @eficode in Copenhagen 🏙
+- I'm currently hacking @ [green.ai](https://green.ai) in Copenhagen 🏙
 
-- I love teaching and I'm a trainer for a number of courses in kubernetes, docker and other Cloud Native technologies 🧑‍🏫
-
-- I'm excited about everything DevOps, Cloud Native, CI/CD, IaC, Public Cloud, Containerization, FaaS, Serverless etc. ☁
-
-- I spent most days writing yaml and drawing on whiteboards, but I also love writing python 🐍
+- I do a bit of everything, but my interests mainly lie within Cloud Native, DevOps and Backend development 󰠳 
 
 - I'm a big fan of FOSS, Linux, tiling WMs and NeoVim ❤
 
