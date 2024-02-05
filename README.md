@@ -6,7 +6,7 @@ Hi there, I'm zander!
 
 - I'm currently hacking @ [green.ai](https://green.ai) in Copenhagen 🌇
 
-- I do a bit of everything and I'm most excited about everything Cloud Native, DevOps and Backend development 🚀
+- I do a bit of everything within software development and operations. I'm exicted about Cloud Native, DevOps and Backend development 🚀
 
 - I'm a big fan of FOSS, Linux, tiling WMs and NeoVim ❤️
 
