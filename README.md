@@ -4,7 +4,7 @@
 Hi there, I'm zander!
 ```
 
-### Zander Havgaard
+### Zander Hornung Havgaard
 
 - I'm currently hacking @ [green.ai](https://green.ai) in Copenhagen 🌇
 
